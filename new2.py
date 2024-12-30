@@ -1,4 +1,4 @@
-print("hello world ","hello us")
+print("hello world ")
 print("ho this is good ")
 
 print("another change la ")
